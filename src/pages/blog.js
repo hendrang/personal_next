@@ -10,7 +10,25 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>Blog</title>
       </Head>
-      <section className={utilStyles.headingMd}>
+      <section className="section">
+      <div className="container">
+      <h2 className={utilStyles.headingLg}>Blog</h2>
+        <ul className={utilStyles.list}>
+          {allPostsData.map(({ id, date, title }) => (
+            <li className={utilStyles.listItem} key={id}>
+              <Link href={`/blog/${id}`}>
+                <a>{title}</a>
+              </Link>
+              <br />
+              <small className={utilStyles.lightText}>
+                <Date dateString={date} />
+              </small>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+      {/* <section className={utilStyles.headingMd}>
         <p>This is test introduction for Hendra</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
@@ -32,7 +50,7 @@ export default function Home({ allPostsData }) {
             </li>
           ))}
         </ul>
-      </section>
+      </section> */}
     </>
   )
 }

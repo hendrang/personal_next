@@ -7,15 +7,21 @@ export default function Post({ postData }) {
     return (
         <>
             <Head>
-                <title>Post</title>
+                <title>{postData.title}</title>
             </Head>
-            <article>
-                <h1 className={utilStyles.headingXl}>{postData.title}</h1>
-                <div className={utilStyles.lightText}>
-                    <Date dateString={postData.date} />
+            <section className="section">
+                <div className="container">
+                    <h1 className={utilStyles.headingXl}>{postData.title}</h1>
+                    <div className={utilStyles.lightText}>
+                        <Date dateString={postData.date} />
+                    </div>
                 </div>
-                <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-            </article>
+                <div className="container py-6">
+                    <div class="content">
+                        <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+                    </div>
+                </div>
+            </section>
         </>
     )
 }

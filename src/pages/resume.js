@@ -4,17 +4,21 @@ const Resume = (props) => {
   return (
     <>
       <Head>
-        <title>Hendra Ng Resume</title>
+        <title>Resume</title>
       </Head>
       <body>
         <section className="section">
           <div className="container">
             <div className="columns is-vcentered">
-              <div className="column is-9">
+              <div className="column is-8">
                 <p className="title is-size-1"><strong>Hendra Ng</strong></p>
                 <p className="subtitle is-size-4">Software Engineer</p>
               </div>
-              <div className="column">Download Resume</div>
+              <div className="column">
+                <button class="button is-dark is-pulled-right">
+                  <a href="/Resume_HendraNg.pdf" target="blank">Resume PDF</a>
+                  </button>
+              </div>
             </div>
           </div>
         </section>
