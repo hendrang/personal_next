@@ -6,7 +6,7 @@ date: '2020-11-10'
 ##### Background
 I decided to buy my domain from Namecheap. While learning React, the tutorial promotes Vercel. Vercel treats React application as its first class citizen, but what actually got me is the fact that it's free for personal use. Since Vercel is free, I have little allowance for me to try SSL on NameCheap. I know with just domain name, I can do redirect (masked, unmasked, or permanent). For those who don't know how to redirect: Namecheap or your favorite domain registrar should have DNS section (and probably Advanced DNS section). If you look closely, you should see options to redirect. Simply add your source URL (for my case hendrang.me) amd Destination URL (your host app url)
 
-##### Tips
+##### How-to
 
 My goal here is to set it up with SSL, so whenever users visit hendrang.me, they wil not see "Not Secured" next to the URL. I spent good amount of time online trying to see how I can do this. Personally, I could not find clear answers on one site. After gathering information here and there and some trial and errors, I finally got it working.
 
