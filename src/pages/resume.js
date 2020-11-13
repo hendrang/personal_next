@@ -94,8 +94,8 @@ const Resume = (props) => {
             </div>
             <div className="content">
               <ul>
-                <li>•	Develop MIGraph using .NET and Angular providing model owners with comprehensive model registration solution.</li>
-                <li>Design and develop MITools supporting validators and QAQC team with model inventory check.</li>
+                <li>Develop MIGraph using .NET and Angular providing model owners with comprehensive model registration solution.</li>
+                <li>Design and develop MITools console application supporting validators and QAQC team with model inventory check.</li>
                 <li>Mentor team in testing frameworks and methodologies.</li>
                 <li>Lead SDLC pipeline implementation for MITools.</li>
                 <li>As Scrum Master, lead daily stand-up and ensure team delivery commitments.</li>
