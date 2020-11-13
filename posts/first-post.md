@@ -9,14 +9,14 @@ Along the way, I also discovered Bulma (CSS, not DragonBall). Here I am being la
 
 I would like to post more of what I've learned so far. If you know me, I am a believer that technologies are out there to make our life simpler and more productive. I can see that in both React/Next JS and Bulma. If you agree, stay tune for my future post. In the meantime, I would like to give credit to below sites:
 
-- <a target="_blank" href="https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/">Learning React Book</a>
-- <a target="_blank" href="https://nextjs.org/learn/basics/create-nextjs-app">Next JS tutorial</a>
-- <a target="_blank" href="https://bulma.io/">Bulma</a>
-- <a target="_blank" href="https://dev.to/eclecticcoding/bulma-navbar-toogle-with-react-hooks-18ek">Bulma Navbar trick</a>
-- <a target="_blank" href="https://stackoverflow.com/questions/53262263/target-active-link-when-the-route-is-active-in-next-js">StackOverflow of course!</a>
-- <a target="_blank" href="https://flaviocopes.com/nextjs-active-link/">Router active link technique</a>
-- <a target="_blank" href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheatsheet</a>
-- <a target="_blank" href="https://hatchful.shopify.com/">Shopify Hatchful</a>
-- <a target="_blank" href="https://www.pngtosvg.com/">PNG to SVG</a>
+- <a target="blank" href="https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/">Learning React Book</a>
+- <a target="blank" href="https://nextjs.org/learn/basics/create-nextjs-app">Next JS tutorial</a>
+- <a target="blank" href="https://bulma.io/">Bulma</a>
+- <a target="blank" href="https://dev.to/eclecticcoding/bulma-navbar-toogle-with-react-hooks-18ek">Bulma Navbar trick</a>
+- <a target="blank" href="https://stackoverflow.com/questions/53262263/target-active-link-when-the-route-is-active-in-next-js">StackOverflow of course!</a>
+- <a target="blank" href="https://flaviocopes.com/nextjs-active-link/">Router active link technique</a>
+- <a target="blank" href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheatsheet</a>
+- <a target="blank" href="https://hatchful.shopify.com/">Shopify Hatchful</a>
+- <a target="blank" href="https://www.pngtosvg.com/">PNG to SVG</a>
 
 <p style='text-align: right;'><em>Cabs duls - HN</em></p>
