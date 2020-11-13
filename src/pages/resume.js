@@ -27,8 +27,7 @@ const Resume = (props) => {
             <div className="title is-size-4">Summary</div>
             <div className="content">
               <ul>
-                <li>Highly motivated 14+ years industry experience Software Developer Associate Manager with a
-                        sincere passion for resolving software development and business challenges.</li>
+                <li>Highly motivated software developer with 14+ years industry experience and a sincere passion for resolving software development and business challenges.</li>
                 <li>A solid problem solver with ability to quickly grasp complex systems and identify opportunities
                         for improvements.</li>
                 <li>Outstanding analysis, programming, and debugging capabilities in web application development.
