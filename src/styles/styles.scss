@@ -1,15 +1,66 @@
 $navbar-item-img-max-height: 8rem;
-$navbar-item-active-background-color: hsl(0, 0%, 71%);
+$navbar-item-active-background-color: #cccccc;
 
-
-@import 'bulma/bulma';
+@import "bulma/bulma";
+@import "fa/css/all.min.css";
 
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans,
+    Helvetica Neue, sans-serif;
 }
 
-a { color: inherit; } 
+a {
+  color: inherit;
+}
+
+/* Style all font awesome icons */
+.fab {
+  padding: 10px;
+  margin: 0px 2px;
+  // font-size: 30px;
+  // width: 50px;
+  // text-align: center;
+  // text-decoration: none;
+  border-radius: 50%;
+}
+
+.content {
+  a {
+    color: #2ba2de;
+  }
+
+  a:hover {
+    color: #0e76a8;
+  }
+}
+
+/* Add a hover effect if you want */
+.fab:hover {
+  opacity: 0.6;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #b0c4de;
+  color: #3b5998;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #b0c4de;
+  color: #55acee;
+}
+
+.fa-linkedin-in {
+  background: #b0c4de;
+  color: #0e76a8;
+}
+
+.fa-github {
+  background: #b0c4de;
+}
