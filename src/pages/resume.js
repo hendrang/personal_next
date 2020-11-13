@@ -94,14 +94,14 @@ const Resume = (props) => {
             </div>
             <div className="content">
               <ul>
-                <li>Develop MIGraph application providing model owners with comprehensive model registration solutions.</li>
+                <li>•	Develop MIGraph using .NET and Angular providing model owners with comprehensive model registration solution.</li>
                 <li>Design and develop MITools supporting validators and QAQC team with model inventory check.</li>
+                <li>Mentor team in testing frameworks and methodologies.</li>
+                <li>Lead SDLC pipeline implementation for MITools.</li>
                 <li>As Scrum Master, lead daily stand-up and ensure team delivery commitments.</li>
-                <li>Field technical questions from developers and leadership, including Continuous Integration and Delivery (CI/CD).</li>
-                <li>Initiate and improve unit test effort on MIGraph and MITools.</li>
-                <li>Research and implement feature tests on MIGraph.</li>
+                <li>Field technical questions from other developers, management, and quality assurance team.</li>
                 <li>Actively participate in code reviews and act as a mentor/coach to team.</li>
-                <li>Assist and support lead validators with minor validations and technical questions.</li>
+                <li>Assist and support model validators with minor validations and technical questions.</li>
               </ul>
             </div>
           </div>
@@ -121,12 +121,11 @@ const Resume = (props) => {
             </div>
             <div className="content">
               <ul>
-                <li>Investigate and resolve bugs in Enterprise Lending Center application (ELC).</li>
-                <li>Work with other team members to design, develop, and tests new features for ELC application.</li>
-                <li>Field technical questions from other developers, product management, quality assurance, and other departments.</li>
-                <li>Research new software development concepts and make suggestions for improvement.</li>
-                <li>Actively participate in code reviews.</li>
-                <li>Document conceptual and technical designs.</li>
+                <li>Investigated and resolved bugs in Enterprise Lending Center application (ELC).</li>
+                <li>Worked with other team members to design, develop, and tests new features for ELC application.</li>                
+                <li>Researched new software development concepts and make suggestions for improvement.</li>
+                <li>Actively participated in code reviews.</li>
+                <li>Documented conceptual and technical designs.</li>
               </ul>
             </div>
           </div>
