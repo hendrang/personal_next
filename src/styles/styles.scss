@@ -64,3 +64,11 @@ a {
 .fa-github {
   background: #b0c4de;
 }
+
+.navbar-start {
+  height: 35%;
+}
+
+.navbar-item:focus-within{
+  background-color: #cccccc !important;
+}

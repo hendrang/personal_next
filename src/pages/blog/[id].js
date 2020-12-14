@@ -17,7 +17,7 @@ export default function Post({ postData }) {
                     </div>
                 </div>
                 <div className="container py-6">
-                    <div class="content">
+                    <div className="content">
                         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
                     </div>
                 </div>
