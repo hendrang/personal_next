@@ -1,6 +1,7 @@
 ---
 title: 'New site first post'
 date: '2020-11-08'
+category: 'info'
 ---
 
 This is my first post on this new site! Learning React has been on my list for awhile. It is always fun and exciting for me learning new things. I've decided to start my focus on Next JS client side rendering. Following the tutorial, I can see why many front-end developers love React. Now, I understand why developers' satisfaction is quite high with React.

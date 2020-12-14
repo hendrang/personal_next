@@ -1,6 +1,7 @@
 ---
 title: 'Setting up SSL Namecheap-Vercel'
 date: '2020-11-10'
+category: 'code'
 ---
 
 ##### Background

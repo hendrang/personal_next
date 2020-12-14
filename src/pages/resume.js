@@ -6,7 +6,7 @@ const Resume = (props) => {
       <Head>
         <title>Resume</title>
       </Head>
-      <body>
+      <section>
         <section className="section">
           <div className="container">
             <div className="columns is-vcentered">
@@ -15,7 +15,7 @@ const Resume = (props) => {
                 <p className="subtitle is-size-4">Software Engineer</p>
               </div>
               <div className="column">
-                <button class="button is-dark is-pulled-right">
+                <button className="button is-dark is-pulled-right">
                   <a href="/Resume_HendraNg.pdf" target="blank">Resume PDF</a>
                   </button>
               </div>
@@ -97,7 +97,7 @@ const Resume = (props) => {
                 <li>Develop MIGraph using .NET and Angular providing model owners with comprehensive model registration solution.</li>
                 <li>Design and develop MITools console application supporting validators and QAQC team with model inventory check.</li>
                 <li>Mentor team in testing frameworks and methodologies.</li>
-                <li>Lead SDLC pipeline implementation for MITools.</li>
+                <li>Lead SDLC pipeline implementation for MITools.</li> 
                 <li>As Scrum Master, lead daily stand-up and ensure team delivery commitments.</li>
                 <li>Field technical questions from other developers, management, and quality assurance team.</li>
                 <li>Actively participate in code reviews and act as a mentor/coach to team.</li>
@@ -312,7 +312,7 @@ const Resume = (props) => {
             </div>
           </div>
         </section>
-      </body>
+      </section>
     </>
   )
 }
