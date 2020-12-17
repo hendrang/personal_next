@@ -1,5 +1,6 @@
 ---
 title: 'New site first post'
+subtitle: 'Sharing tutorial links I used to learn React and NextJS'
 date: '2020-11-08'
 category: 'info'
 ---

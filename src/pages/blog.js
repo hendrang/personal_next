@@ -19,7 +19,7 @@ export default function Blog({ allPostsData }) {
       <div className="container py-4">
         <div className="columns is-centered">
           <div className="column is-11">
-            {allPostsData.map(({ id, date, title, category }) => (
+            {allPostsData.map(({ id, date, title, subtitle, category }) => (
               <div className="media" key={id}>
                 <div className="media-left">
                   <figure className="image is-64x64">
@@ -34,7 +34,7 @@ export default function Blog({ allPostsData }) {
                   </strong>
                     <span className="subtitle is-size-7 pl-3 has-text-weight-light"><Date dateString={date} /></span>
                   </p>
-                  <p>Why I'm the Best Programmer Ever I feel like not everybody outside of Pied Piper knows it, so I wanted to make it clear why I'm the best programmer in the world.</p>
+                  <p>{subtitle}</p>
                 </div>
               </div>
             ))}
