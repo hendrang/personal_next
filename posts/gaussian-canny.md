@@ -1,6 +1,6 @@
 ---
 title: 'Edge Detection with Gaussian Blur and Canny Algorithm'
-subtitle: 'Personal experiment on how to detect card edge'
+subtitle: 'Personal experiment on how to detect card edges'
 date: '2020-12-17'
 category: 'code'
 ---
