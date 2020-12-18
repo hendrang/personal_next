@@ -98,9 +98,9 @@ const Resume = (props) => {
                 <li>Design and develop MITools console application supporting validators and QAQC team with model inventory check.</li>
                 <li>Mentor team in testing frameworks and methodologies.</li>
                 <li>Lead SDLC pipeline implementation for MITools.</li> 
-                <li>As Scrum Master, lead daily stand-up and ensure team delivery commitments.</li>
+                <li>As a Scrum Master, lead daily stand-up and ensure team delivery commitments.</li>
                 <li>Field technical questions from other developers, management, and quality assurance team.</li>
-                <li>Actively participate in code reviews and act as a mentor/coach to team.</li>
+                <li>Actively participate in code reviews and act as a mentor/coach.</li>
                 <li>Assist and support model validators with minor validations and technical questions.</li>
               </ul>
             </div>
@@ -298,7 +298,7 @@ const Resume = (props) => {
           <div className="container">
             <div className="content">
               <ul>
-                <li><strong>MITools:</strong> Lead MRO QAQC team developing MITools weekly run application checking model inventory fields. This application helps validators identifying data related issues that may violate SR11-7 and/or MRO Governance guidelines. Result: About 11 thousand data related issues have been reduced to roughly 1500. This ongoing effort shows Federal Reserve on MRO’s initiative/effort achieving no data issue goal.</li>
+                <li><strong>MITools:</strong> Lead MRO QAQC team developing MITools weekly run application checking model inventory fields. This application helps validators identifying data related issues that may violate SR11-7 and/or MRO Governance guidelines. Result: About 11,000 data related issues have been reduced to roughly 1,500. This ongoing effort shows Federal Reserve on MRO’s initiative/effort achieving no data issue goal.</li>
                 <li><strong>Short Sale Automation:</strong> Led Securities Lending project providing daily securities’ short sale rate to Digital Service team, which would then be distributed to the front channels (schwab.com, street smart, and client central). This was the first project taking advantage of .Net Web API and Rabbit MQ on Pivotal Cloud Foundry. Result: Better customer experience by providing hard to borrow securities’ rates without having to call customer representatives.</li>
                 <li><strong>Home Quote 2:</strong> Technical Lead for member of 12-person team expanding Progressive business to homeowners offering better selections of home and condo insurance. Goal: Enhancing Progressive’s ability to grow together with the expanding customers’ families (customer retention).</li>
                 <li><strong>Unified Quoting Architecture Implementation:</strong> Member of 30-person team rolling out next version of Direct Tablet/Auto Quoting using AngularJS, ASP .NET MVC, JQuery, and Sass. Result: Better quoting experience for customers.</li>
