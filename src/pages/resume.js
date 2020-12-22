@@ -17,7 +17,7 @@ const Resume = (props) => {
               <div className="column">
                 <button className="button is-dark is-pulled-right">
                   <a href="/Resume_HendraNg.pdf" target="blank">Resume PDF</a>
-                  </button>
+                </button>
               </div>
             </div>
           </div>
@@ -36,6 +36,9 @@ const Resume = (props) => {
             </div>
           </div>
         </section>
+        <div className="container">
+          <hr />
+        </div>
         <section className="section py-4">
           <div className="container">
             <div className="title is-size-4">Technical Skills</div>
@@ -74,6 +77,9 @@ const Resume = (props) => {
             </div>
           </div>
         </section>
+        <div className="container">
+          <hr />
+        </div>
         <section className="section py-4">
           <div className="container">
             <div className="title is-size-4">Experience</div>
@@ -97,7 +103,7 @@ const Resume = (props) => {
                 <li>Develop MIGraph using .NET and Angular providing model owners with comprehensive model registration solution.</li>
                 <li>Design and develop MITools console application supporting validators and QAQC team with model inventory check.</li>
                 <li>Mentor team in testing frameworks and methodologies.</li>
-                <li>Lead SDLC pipeline implementation for MITools.</li> 
+                <li>Lead SDLC pipeline implementation for MITools.</li>
                 <li>As a Scrum Master, lead daily stand-up and ensure team delivery commitments.</li>
                 <li>Field technical questions from other developers, management, and quality assurance team.</li>
                 <li>Actively participate in code reviews and act as a mentor/coach.</li>
@@ -122,7 +128,7 @@ const Resume = (props) => {
             <div className="content">
               <ul>
                 <li>Investigated and resolved bugs in Enterprise Lending Center application (ELC).</li>
-                <li>Worked with other team members to design, develop, and tests new features for ELC application.</li>                
+                <li>Worked with other team members to design, develop, and tests new features for ELC application.</li>
                 <li>Researched new software development concepts and make suggestions for improvement.</li>
                 <li>Actively participated in code reviews.</li>
                 <li>Documented conceptual and technical designs.</li>
@@ -212,6 +218,9 @@ const Resume = (props) => {
             </div>
           </div>
         </section>
+        <div className="container">
+          <hr />
+        </div>
         <section className="section py-4">
           <div className="container">
             <div className="title is-size-4">Education</div>
@@ -247,6 +256,9 @@ const Resume = (props) => {
             </div>
           </div>
         </section>
+        <div className="container">
+          <hr />
+        </div>
         <section className="section py-4">
           <div className="container">
             <div className="title is-size-4">Certifications</div>
@@ -291,6 +303,9 @@ const Resume = (props) => {
             </div>
           </div>
         </section>
+        <div className="container">
+          <hr />
+        </div>
         <section className="section py-4">
           <div className="container">
             <div className="title is-size-4">Projects</div>
@@ -308,6 +323,153 @@ const Resume = (props) => {
                 <li><strong>Flash Quoting:</strong> Member of 17-person team rolled out flash based quoting application to more US states improving customer experience. Result: great customer experience feedback resulted in more policies in force.</li>
                 <li><strong>Production Support Blitz:</strong> Member of 10-person team resolved approximately 400 production issues with different priorities in four months. Result: zero production issue at the end of 2006. Progressive’s production issue number (all priorities) had not been more than 50 since early 2007 to 2010.</li>
                 <li><strong>Feature Manager Reporting:</strong> Created features reporting on Progressive Feature Manager’s website giving summary to developers on currently available features on each environment (development, test, acceptance, and production). Result: one stop user interface for developers to identify all available features for each environment (time saver).</li>
+                <li><strong>Security Masking:</strong> Enhanced customers’ security at Progressive during auto insurance quoting by masking sensitive information using C#. Result: Progressive complies with the industry standard and customers’ comment about feeling safe when quoting through Progressive website.</li>
+              </ul>
+            </div>
+          </div>
+        </section>        
+        <div className="container">
+          <hr />
+        </div>
+        <section className="section py-4">
+          <div className="container">
+            <div className="title is-size-4">Activities</div>
+          </div>
+          <div className="container pt-5">
+            <div className="columns">
+              <div className="column is-9 ">
+                <div className="title is-size-5">
+                  PT Mega Sukses Abadi
+                    </div>
+                <div className="subtitle is-size-5">
+                  Web Developer
+                    </div>
+              </div>
+              <div className="column is-3 title is-size-5">
+                April 2020 - Present
+                </div>
+            </div>
+            <div className="content">
+              <ul>
+                <li>Side project promoting engineering tools distributor firm online (<a href="https://msateknik.id/" target="blank">MSA Teknik</a>).</li>
+              </ul>
+            </div>
+          </div>
+          <div className="container pt-5">
+            <div className="columns">
+              <div className="column is-9 ">
+                <div className="title is-size-5">
+                  Andria's Kitchen
+                    </div>
+                <div className="subtitle is-size-5">
+                  Web Developer
+                    </div>
+              </div>
+              <div className="column is-3 title is-size-5">
+                April 2003 - Present
+                </div>
+            </div>
+            <div className="content">
+              <ul>
+                <li>Side project promoting <a href="http://andriaskitchen.com/" target="blank">Andria's Kitchen</a> catering business online using Angular2, Typescript, Webpack, and NoSQL.</li>
+              </ul>
+            </div>
+          </div>
+          <div className="container pt-5">
+            <div className="columns">
+              <div className="column is-9 ">
+                <div className="title is-size-5">
+                  National Association of Asian American Professionals
+                    </div>
+                <div className="subtitle is-size-5">
+                  Member
+                    </div>
+              </div>
+              <div className="column is-3 title is-size-5">
+                July 2009 – December 2012
+                </div>
+            </div>
+            <div className="content">
+              <ul>
+                <li>Participate in events.</li>
+              </ul>
+            </div>
+          </div>
+          <div className="container pt-5">
+            <div className="columns">
+              <div className="column is-9 ">
+                <div className="title is-size-5">
+                  International Student with Advanced Technologies (I-SWAT)
+                    </div>
+                <div className="subtitle is-size-5">
+                  Team Leader
+                    </div>
+              </div>
+              <div className="column is-3 title is-size-5">
+                January 2005 - May 2005
+                </div>
+            </div>
+            <div className="content">
+              <ul>
+                <li>Led an international team consisting of six people to provide aid to non-profit organization in Singapore.</li>
+              </ul>
+            </div>
+          </div>
+          <div className="container pt-5">
+            <div className="columns">
+              <div className="column is-9 ">
+                <div className="title is-size-5">
+                  Student with Advanced Technologies (SWAT)
+                    </div>
+                <div className="subtitle is-size-5">
+                  Team Leader
+                    </div>
+              </div>
+              <div className="column is-3 title is-size-5">
+                April 2020 - Present
+                </div>
+            </div>
+            <div className="content">
+              <ul>
+                <li>Led a team of four to five people to aid non-profit organization through United Way installing computers or updating websites.</li>
+              </ul>
+            </div>
+          </div>
+          <div className="container pt-5">
+            <div className="columns">
+              <div className="column is-9 ">
+                <div className="title is-size-5">
+                  Ira A. Fulton School of Engineering Ambassador
+                    </div>
+                <div className="subtitle is-size-5">
+                  Webmaster
+                    </div>
+              </div>
+              <div className="column is-3 title is-size-5">
+                August 2003 - December 2005
+                </div>
+            </div>
+            <div className="content">
+              <ul>
+                <li>Developed and maintained the Fulton Ambassador web site.</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+        <div className="container">
+          <hr />
+        </div>
+        <section className="section py-4">
+          <div className="container">
+            <div className="title is-size-4">Honors and Awards</div>
+          </div>
+          <div className="container">
+            <div className="content">
+              <ul>
+                <li>ASU Corporate Leaders Program (CLP) Undergraduate Fellow of the Year, 2005</li>
+                <li>ASU Corporate Leaders Program (CLP) Undergraduate Performance Plus Topper, 2005</li>
+                <li>Arizona Board of Regents Scholarship Recipient, 2001-2005</li>
+                <li>Dean's Honor List, 2001-2004</li>
               </ul>
             </div>
           </div>
