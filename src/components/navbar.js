@@ -46,7 +46,7 @@ const Navbar = () => {
                         </div>
                         <div className="navbar-end">
                             <div className="navbar-item">
-                                <input className="input" type="text" placeholder="Search" />
+                                {/* <input className="input" type="text" placeholder="Search" /> */}
                             </div>
                         </div>
                     </div>
