@@ -16,7 +16,7 @@ const Index = (props) => {
           <p>With my current personal site, I would like to do a little self promotion (<Link href="/resume">resume</Link>) and also connect with other problem solvers. With my <Link href="/blog">blog</Link>, I'd like to start sharing more how-to. You can think of it as my version of documentation after learning new things.</p>
           <p>If you happen to know someone who lives in Southeast Asia and in the market for industry instruments, please check out <a href="https://msateknik.id/" target="blank">MSA Teknik</a> (promoting my brother's business).</p>
           <p>If you are in Jakarta getting bored reading my intro and hungry, how about ordering some food at <a href="http://andriaskitchen.com/" target="blank">Andria's Kitchen</a> (sister in law's catering).</p>
-          <p>Lastly, I myself have launched my side project with the hope that it could be my side business combining two activities I like: collecting sports cards and software development. If you are a sports cards collector, check out <a href="https://tolektor.com/" target="blank">Tolektor</a>.</p>
+          <p>Lastly, I have also launched my side project hoping to be my side business combining two activities I like: collecting sports cards and software development. If you are a sports cards collector, check out <a href="https://tolektor.com/" target="blank">Tolektor</a>.</p>
           <p><br />Hendra Ng</p>
         </div>
       </div>

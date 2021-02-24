@@ -2,7 +2,7 @@
 title: 'Blue Coat Proxy'
 subtitle: 'How to access your site especially at work'
 date: '2020-12-23'
-category: 'info'
+category: 'code'
 ---
 
 ##### Background
